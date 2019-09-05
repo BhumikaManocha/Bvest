@@ -100,3 +100,7 @@ a, a:visited, a:active, a:hover{
     width: 100px;
     float: left;   
 }
+
+.icon{
+    padding: 15px;
+}
